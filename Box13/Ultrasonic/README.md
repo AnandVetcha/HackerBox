@@ -1,3 +1,5 @@
+<img src="https://github.com/AnandVetcha/HackerBox/blob/master/Box13/Pictures/Ultrasonic.jpg" alt="Ultrasonic Sensor">
+
 HC - SR04 is the name of the ultrasonic sensor that was used for this sketch.
 
 Sensor pin conenctions with NodeMCU:
