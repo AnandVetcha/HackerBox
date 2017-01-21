@@ -1,7 +1,6 @@
  * This example runs directly on NodeMCU
  * using the Blynk platform and mobile application.
  * Ultrasonic sensor (HC -SR04) is connected to the RC car
- * 
  * Change WiFi ssid, password, and Blynk auth token to run :)
  ***************************************************************
 
