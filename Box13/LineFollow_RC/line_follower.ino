@@ -1,3 +1,0 @@
-/*
-Arduino code for line following robot
-*/
