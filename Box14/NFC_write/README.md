@@ -3,7 +3,7 @@
 This Required:
 - Arduino Nano V3 or equivalent
 - MFRC522 RFID reader
-- MIFARE Ultralight NFC card or eruivalent
+- MIFARE Ultralight NFC card or equivalent
 
 Pin Connection:
  * MFRC522 <---> Arduino Nano V3
