@@ -16,7 +16,7 @@ Pin Connection:
 Memory organisation in NFC card:
 
 The 512-bit EEPROM memory is organized in 16 pages (i.e. 0x00 to 0x0F) with 4 bytes per page. First for pages contaion NFC UID,
-Lock Bytes, One Time Programmable area, etc. Lock Bytes as the suggest can prevent new data getting written into NFC card. 
+Lock Bytes, One Time Programmable area, etc. Lock Bytes as the name suggests, can prevent new data getting written into NFC card. 
 To be on the safer above arduino code will prevent data gettin written into the first 4 pages (i.e. 0x00 to 0x03)
  
 MIFARE Ultralight datasheet for reference:
