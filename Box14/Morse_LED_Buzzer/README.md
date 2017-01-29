@@ -1,4 +1,4 @@
-<img src="https://github.com/AnandVetcha/HackerBox/blob/master/Box14/Pictures/Beetle_Morse_Buzzer.jpg" alt="Wifi Car">
+<img src="https://github.com/AnandVetcha/HackerBox/blob/master/Box14/Pictures/Beetle_Morse_Buzzer.jpg" alt="Morse LED Buzzer">
 
 Things Required:
 - Buzzer
