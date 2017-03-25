@@ -17,7 +17,7 @@ GND -> GND;
 SCL -> IO22;
 SDA -> IO21;
 - 4X4 Keypad:
-First 7 pins from Left to Right -> IO12;IO14;IO27;IO26;IO25
+First 5 pins from Left to Right -> IO12;IO14;IO27;IO26;IO25
 
 Video:
 [Snake Game using ESP32](https://www.youtube.com/watch?v=Favfaeqm_Zo)
