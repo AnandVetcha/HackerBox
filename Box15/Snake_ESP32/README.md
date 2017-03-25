@@ -6,7 +6,7 @@ Things Required:
 - 4X4 Keypad 
 
 Arduino Library Required:
-- Oled Display : Used libraries located at https://github.com/squix78/esp8266-oled-ssd1306/releases . Download the zip file and using Ardino IDE include the libs. Sketch->Include Library-> Add .ZIP Library
+- Oled Display : Used libraries located at https://github.com/squix78/esp8266-oled-ssd1306/releases . Download the zip file and using Arduino IDE include the libs. Sketch->Include Library-> Add .ZIP Library
 - Qlist : You can download them from Arduinos built-in Libraray manager. Sketch->Include Library->Manage Libararies
 - Keypad : You can download them from Arduinos built-in Libraray manager. Sketch->Include Library->Manage Libararies
 
@@ -17,7 +17,7 @@ GND -> GND;
 SCL -> IO22;
 SDA -> IO21;
 - 4X4 Keypad:
-FIrst 7 pins from Left to Right -> IO12;IO14;IO27;IO26;IO25
+First 7 pins from Left to Right -> IO12;IO14;IO27;IO26;IO25
 
 Video:
 [Snake Game using ESP32](https://www.youtube.com/watch?v=Favfaeqm_Zo)
