@@ -1,7 +1,7 @@
 /**
  * Snake Game
  * Author : Anand Satya
- * Git Repo: 
+ * Git Repo: https://github.com/AnandVetcha/HackerBox/blob/master/Box15/Snake_ESP32/Snake_ESP32.ino
  * Description: Basic snake game was implemented
  * using ESP32 and oled display (SSD1306)
  */
@@ -134,8 +134,7 @@ void DisplayFood() {
 void SwitchOnPixel(int X, int Y) {
   if ( (X >= 0 && X <= 24) && (Y >=0 && Y <=11)) {
     // Fill the rectangle
-    display.fillRect((X*5) , (Y*5), 5, 5);
-     
+    display.fillRect((X*5) , (Y*5), 5, 5);     
   }
 }
 
