@@ -19,7 +19,5 @@ SDA -> IO21;
 - 4X4 Keypad:
 FIrst 7 pins from Left to Right -> IO12;IO14;IO27;IO26;IO25
 
-To upload the sketch select "Arduino Leanardo" as board type.
-
 Video:
 [Snake Game using ESP32](https://www.youtube.com/watch?v=Favfaeqm_Zo)
