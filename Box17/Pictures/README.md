@@ -1,1 +1,1 @@
-Pictures corresponding to Box17 are stred this this location.
+Pictures corresponding to Box17 are stored this this location.
