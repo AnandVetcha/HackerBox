@@ -27,7 +27,7 @@ char hexaKeys[ROWS][COLS] = {
   {'R','*','*','*'}
 };
 byte rowPins[ROWS] = {12, 14, 27, 26};    //connect to the row pinouts of the keypad
-byte colPins[COLS] = {25, 999, 999, 999}; //Using only one column of Pins so setting remaining pins to 999
+byte colPins[COLS] = {25, 100, 100, 100}; //Using only one column of Pins so setting remaining pins to 999
 Keypad customKeypad = Keypad( makeKeymap(hexaKeys), rowPins, colPins, ROWS, COLS); 
 
 // Initialise Snake game variables
