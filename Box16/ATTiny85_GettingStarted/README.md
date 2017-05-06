@@ -14,11 +14,11 @@ Getting Started Using Arduino IDE:
     - ATTiny85 Pin 2 to Arduino Pin 13 
     - ATTiny85 Reset Pin to Arduino Pin 10
    - Open Blank Arduino sketch. Under tools set following configuration and select "Tools->Burn Bootloader"
-    - Board : ATtiny25/45/85
-    - Processor : ATtiny85
-    - Clock : Internal 8Mhz
-    - Programmer : Arduino as ISP
-    - Port : Select correct COM Port
+     - Board : ATtiny25/45/85
+     - Processor : ATtiny85
+     - Clock : Internal 8Mhz
+     - Programmer : Arduino as ISP
+     - Port : Select correct COM Port
 - Uploading Blink sketch
   - Open a Blink Sketck from "File->Examples->01.Basics->Blink" and set LED Pin to "0" (i.e. ATtiny85 Pin 0)
   - Select Upload
