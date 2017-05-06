@@ -5,6 +5,7 @@ Getting Started Using Arduino IDE:
   - In File->Preference under additional board manager include the following path. If you already have an existing path then you can separate the entries by comma.
   Path: "https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json"
   - Under "Tools->Board:->Boards Manager" search for "attiny by David A. Mellias" and install it. Once installiation is complete restart the IDE
+- Upload ArduinoISP sketch into Arduino UNO. Sketch is located at "File->Examples->11.ArduinoISP->ArduinoISP"
 - Burning bootloader
   - ATTiny85 Pin Connection with Arduino UNO
     - ATTiny85 VCC pin to Arduino 5V
