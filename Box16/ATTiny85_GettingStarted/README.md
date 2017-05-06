@@ -1,4 +1,5 @@
 <img src="https://github.com/AnandVetcha/HackerBox/blob/master/Box16/Pictures/AtTiny85_PINOUT.PNG" alt="ATtiny85 Pinout">
+
 Getting Started Using Arduino IDE:
 - Installing The Board
   - In File->Preference under additional board manager include the following path. If you already have an existing path then you can separate the entries by comma.
